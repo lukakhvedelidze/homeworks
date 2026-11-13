@@ -3,6 +3,7 @@
   <Project Path="../../../OneDrive/Desktop/homework4/homework4/homework4.csproj" Id="f80eb545-8800-43c0-b89e-4a739ce3fac0" />
   <Project Path="homework1/homework1.csproj" />
   <Project Path="homework10/homework10.csproj" Id="19ab72ee-b8cb-4e92-9bca-d04b3d96e3e9" />
+  <Project Path="homework11/homework11.csproj" Id="6c74d07f-76b2-472f-97e6-bc6ba40e5d18" />
   <Project Path="homework8/homework8.csproj" Id="b1a8705c-caa6-4d1c-9391-ec524f35b939" />
   <Project Path="homework9/homework9.csproj" Id="9e39a281-1924-4890-80ec-9b782af08050" />
 </Solution>
